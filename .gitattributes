@@ -1,0 +1,7 @@
+*.png binary
+Cargo.lock linguist-generated
+
+src/** linguist-detectable
+docs/index.html linguist-vendored
+*.ico binary
+# eof 1aacc0ac
